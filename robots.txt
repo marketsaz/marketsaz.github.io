@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /konami
+Disallow: /order_*.html
+Disallow: /blogfa.html
+Disallow: /adsara.html
+Disallow: /shop-script.html
+
