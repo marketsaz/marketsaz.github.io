@@ -1,0 +1,9 @@
+/* TEAM */
+Developer: Mehdi R.
+Site: www.MarketSaz.com
+Location: Tehran, Iran
+
+/* SITE */
+Standards: PHP5, HTML5, CSS3
+Components: PHP, HTML, CSS, jQuery
+Software: Notepad
